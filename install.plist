@@ -1,4 +1,4 @@
-﻿<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 <!-- array of downloads. -->
@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/SCOthman10.24.0_201802/SCOthman_10.24.0.ipa</string>
+						<string>https://archive.org/download/cydia_201609/cydia.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://pbs.twimg.com/media/DVEPVbIWkAAyHmG.jpg</string>
+						<string>https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/snapchat-512.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,7 +34,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://pbs.twimg.com/media/DVEPVbIWkAAyHmG.jpg</string>
+						<string>https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/snapchat-512.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -46,10 +46,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>
-created by sultan alnoaimi 
-follow me 
-s_a868 </string>
+				<string>سناب شات مكرر نسخه رقم ٣</string>
 			</dict>
 		</dict>
 	</array>
